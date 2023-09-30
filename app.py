@@ -95,6 +95,19 @@ st.write('\n')
 st.subheader("Projects & Accomplishments")
 st.write(
     """
+Stock Market Dashboard, (Mini Project)
+09/2023 – 09/2023
+•Description : Designed and developed an interactive
+Stock Market Dashboard using Python and Streamlit
+to provide real-time stock market data analysis and
+visualization.
+•Technologies Used : Python, Streamlit, yfinance,
+pandas, Matplotlib, Seaborn, Plotly.
+•Outcome : The Stock Market Dashboard provides a
+user-friendly and visually engaging platform for users
+to explore stock market data, analyze trends, and
+make informed investment decisions.
+
 -✔️ Online Pharmacy Management System(OPMS) Date: Oct 2021
 
 Tools/Technologies Used: JavaScript, HTML, CSS, MySQL
