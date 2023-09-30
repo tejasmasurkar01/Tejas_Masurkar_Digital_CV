@@ -95,11 +95,8 @@ st.write('\n')
 st.subheader("Projects & Accomplishments")
 st.write(
     """
--✔️ Stock Market Dashboard,
-
-(Mini Project)
-
-09/2023 – 09/2023
+-✔️ Stock Market Dashboard, (Mini Project)
+Date: 09/2023 – 09/2023
 
 •Description : Designed and developed an interactive
 Stock Market Dashboard using Python and Streamlit
